@@ -7,8 +7,8 @@
 	<pcmdai playback_offload_link="5" />
 	<pcmdai playback_jam_link="3" />
 	<pcmdai capture_link="9" />
-	<pcmdai baseband_link="4" />
-	<pcmdai baseband_capture_link="10" />
+	<pcmdai baseband_link="9" />
+	<pcmdai baseband_capture_link="4" />
 	<pcmdai call_rec_capture_link="19" />
 	<pcmdai abox_pcm_dump_card="2"/>
 
